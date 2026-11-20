@@ -1,0 +1,26 @@
+{
+  "rows_raw": 1025,
+  "rows_clean": 302,
+  "duplicates_removed": 723,
+  "full_model_pseudo_r2": 0.5179065675793169,
+  "full_model_log_likelihood": -100.3766044022116,
+  "full_model_ll_null": -208.2098565379775,
+  "full_model_llr_p_value": 2.545016463201067e-35,
+  "full_holdout_accuracy": 0.8852459016393442,
+  "full_holdout_roc_auc": 0.9383116883116883,
+  "best_by_llr_pvalue": [
+    "cp",
+    "oldpeak",
+    "ca",
+    "thal"
+  ],
+  "best_by_pseudo_r2": [
+    "cp",
+    "oldpeak",
+    "ca",
+    "thal"
+  ],
+  "reduced_holdout_accuracy": 0.8360655737704918,
+  "reduced_holdout_roc_auc": 0.9096320346320346,
+  "candidate_models_fitted": 1092
+}

@@ -1,0 +1,7 @@
+metric,value
+rows_before_deduplication,1025
+rows_after_deduplication,302
+duplicates_removed,723
+missing_cells_after_cleaning,0
+target_0_after_cleaning,138
+target_1_after_cleaning,164
